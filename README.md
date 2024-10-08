@@ -26,7 +26,7 @@ Mi objetivo es poder aplicar los conocimientos adquiridos en mi formación en pr
 ## ¿Qué tecnología uso?
 Las principales tecnología que manejo son:
 
- #### SQL server
+ * #### SQL server
  #### Power BI
  #### Python
  #### Spreadsheets
