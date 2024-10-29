@@ -42,3 +42,5 @@ luisguarino.11@gmail.com
 https://www.linkedin.com/in/luis-guarino-data-analytics/
 
 +549 221 6138713
+
+La Plata, Buenos Aires.
