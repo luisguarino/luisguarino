@@ -12,6 +12,7 @@ Soy Data Analytics🔍, docente y profesor en educación física. Apasionado por
 ## ¿Qué hago?
 Actualmente me estoy especializando en la carrera de Data Analytics. Dame un dato y será analizado 🕵️😆
 
+![CuteHeartsGIF](https://github.com/user-attachments/assets/560678b4-5e7a-4721-8fa1-0dcf66fe9499)
 
 
 ## ¿A dónde me dirijo?
